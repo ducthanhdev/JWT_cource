@@ -1,0 +1,9 @@
+# GET http://localhost:5000/books
+
+# Authorization: Beaer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDI0NjY2NTcsImV4cCI6MTc0MjQ2NjY4N30.HpJSnbnwFpvwOscBiBxHOQ2N_ehcVEsZdkJTDSCglHM
+
+# POST http://localhost:5000/login 
+
+#    {
+#      "username": "admin",
+#    }
